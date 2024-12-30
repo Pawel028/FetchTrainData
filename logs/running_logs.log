@@ -1,0 +1,293 @@
+[2024-11-11 22:17:16,135: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-11 22:19:20,078: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-11 22:22:30,682: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-11 22:46:11,052: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-11 22:47:23,740: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 10:45:11,096: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 10:56:48,765: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 11:04:26,323: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 11:17:27,722: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 11:20:02,371: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 11:22:13,786: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 11:23:04,457: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 12:44:49,176: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 11:40:39,464: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 11:45:34,252: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 11:46:43,490: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 11:47:19,857: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:00:10,838: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:02:04,388: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:02:19,072: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:03:09,632: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:10:50,685: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:11:17,870: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:12:07,913: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-01 12:13:18,303: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-20 23:43:03,241: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:08:29,509: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:09:55,251: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:11:26,004: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:14:24,546: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:15:35,405: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:15:47,854: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:18:32,461: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:21:05,213: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:35:36,482: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:36:13,512: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:36:45,558: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:36:56,622: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:37:10,786: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:37:30,416: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:38:10,143: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:40:29,489: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:45:35,703: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:47:12,159: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:52:39,666: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 09:54:01,294: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:22:37,349: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:28:06,568: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:30:34,574: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:30:52,811: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:31:10,780: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:31:28,973: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:32:26,813: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:37:38,500: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:39:18,172: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:43:45,804: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:46:07,997: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:47:06,802: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:47:20,703: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:48:32,047: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:51:43,421: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:54:29,864: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 10:54:51,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:45:29,283: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:45:48,631: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:47:45,372: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:48:20,508: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:49:08,869: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 12:49:39,998: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:23:32,332: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:23:52,008: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:27:21,530: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:27:53,768: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:28:28,233: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:28:54,085: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:30:22,229: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:31:28,219: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 16:34:38,953: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 18:20:01,533: ERROR: base_events: unhandled exception during asyncio.run() shutdown
+task: <Task finished name='Task-1' coro=<loop_run() done, defined at c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py:29> exception=KeyError('message')>]
+Traceback (most recent call last):
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+    self._run_once()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+    handle._run()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 19, in store_data
+    # dict = RailData(train_num=train1).ReFormatData()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\src\FetchTrainData\components\__init__.py", line 210, in ReFormatData
+    Data = UpdateData(resp_dict = get_data_obj.get_reponse())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\src\FetchTrainData\components\__init__.py", line 42, in __init__
+    self.station_info = pd.DataFrame(list(collection_station.find()))
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1281, in __next__
+    return self.next()
+           ^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1257, in next
+    if len(self._data) or self._refresh():
+                          ^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1228, in _refresh
+    self._send_message(g)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1100, in _send_message
+    response = client._run_operation(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1754, in _run_operation
+    return self._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2697, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1745, in _cmd
+    return server.run_operation(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 45, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\server.py", line 208, in run_operation
+    reply = conn.receive_message(request_id)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\pool.py", line 592, in receive_message
+    self._raise_connection_failure(error)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\pool.py", line 590, in receive_message
+    return receive_message(self, request_id, self.max_message_size)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 320, in receive_message
+    length, _, response_to, op_code = _UNPACK_HEADER(_receive_data_on_socket(conn, 16, deadline))
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 390, in _receive_data_on_socket
+    wait_for_read(conn, deadline)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 375, in wait_for_read
+    readable = conn.socket_checker.select(sock, read=True, timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\socket_checker.py", line 77, in select
+    res = select.select(rlist, wlist, [sock], timeout)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 38, in loop_run
+    string = train_list_obj.mongo_string
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 18, in store_data
+    if dict1['message']!="":
+       ^^^^^^^^^^^^^^^
+KeyError: 'message'
+[2024-12-25 18:20:20,803: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-25 18:21:12,039: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-30 09:01:59,197: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-30 23:54:10,102: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-31 00:01:08,864: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-31 00:02:56,096: ERROR: base_events: Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<loop_run() done, defined at c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py:33> exception=KeyboardInterrupt()>]
+Traceback (most recent call last):
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 49, in <module>
+    asyncio.run(loop_run())
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 63, in __exit__
+    self.close()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+    self._run_once()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+    handle._run()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 42, in loop_run
+    results = await asyncio.gather(*task)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+    self._run_once()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+    handle._run()
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\get_data.py", line 21, in store_data
+    dict2 = dict.ReFormatData()
+            ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\src\FetchTrainData\components\__init__.py", line 210, in ReFormatData
+    Data = UpdateData(resp_dict = get_data_obj.get_reponse())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\src\FetchTrainData\components\__init__.py", line 42, in __init__
+    self.station_info = pd.DataFrame(list(collection_station.find()))
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1281, in __next__
+    return self.next()
+           ^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1257, in next
+    if len(self._data) or self._refresh():
+                          ^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1228, in _refresh
+    self._send_message(g)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1100, in _send_message
+    response = client._run_operation(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1754, in _run_operation
+    return self._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2697, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1745, in _cmd
+    return server.run_operation(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 45, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\server.py", line 208, in run_operation
+    reply = conn.receive_message(request_id)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\pool.py", line 592, in receive_message
+    self._raise_connection_failure(error)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\pool.py", line 590, in receive_message
+    return receive_message(self, request_id, self.max_message_size)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 320, in receive_message
+    length, _, response_to, op_code = _UNPACK_HEADER(_receive_data_on_socket(conn, 16, deadline))
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 390, in _receive_data_on_socket
+    wait_for_read(conn, deadline)
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\synchronous\network.py", line 375, in wait_for_read
+    readable = conn.socket_checker.select(sock, read=True, timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\Desktop\Work\TrainProject\FetchTrainData\.venv\Lib\site-packages\pymongo\socket_checker.py", line 77, in select
+    res = select.select(rlist, wlist, [sock], timeout)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pawel Sogra\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt

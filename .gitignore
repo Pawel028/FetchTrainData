@@ -1,0 +1,8 @@
+venv/
+.kaggle
+env/
+.env
+.venv/
+__pycache__/
+*.py[cod]
+

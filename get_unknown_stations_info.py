@@ -223,9 +223,9 @@ if __name__=="__main__":
         # unknown_stations = list(collection_unknown_stations.find())
         # station_info = pd.DataFrame(list(collection_station.find()))
 
-
-        api_key = "AIzaSyA-2pIn5Q8lWfxj6Sx5ZQ2CnmUjZ5tIbLQ"
-        cse_id = "350c8578551264f73"
+        
+        api_key = os.getenv("api_key")
+        cse_id = os.getenv("cse_id")
         # Replace with your API key
         geolocator = GoogleV3(api_key=api_key)
 

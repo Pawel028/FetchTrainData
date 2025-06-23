@@ -1,31 +1,5 @@
 import time
-import json
-import requests
-from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, time
-from pymongo import MongoClient
-import pandas as pd
-import os
-import dotenv
-import re
-import numpy as np
-
-class GetData:
-    def __init__(self,train_num):
-        self.train_num = train_num
-
-    def get_reponse(self)->dict:
-        if type(self.train_num)==str:
-            URL = "https://rappid.in/apis/train.php?train_no="+self.train_num  # Replace with the actual running status page URL
-        else:
-            URL = "https://rappid.in/apis/train.php?train_no="+str(self.train_num)  # Replace with the actual running status page URL
-        response = requests.get(URL)
-        if len(response.text)!=0:
-            response_dict = json.loads(response.text)
-            # print(response_dict)
-            return response_dict
-        else:
-            return None
 
 class UpdateData:
     def __init__(self,resp_dict: dict):
@@ -34,11 +8,6 @@ class UpdateData:
         self.message:str = resp_dict["message"]
         self.updated_time:str = resp_dict["updated_time"]
         self.data:str = resp_dict["data"]
-        string = os.getenv("mongodb_string")
-        client = MongoClient(string)  # Use your MongoDB connection string
-        db = client['train_data']  # Database name
-        collection_station = db['Station_Info']
-        self.station_info = pd.DataFrame(list(collection_station.find()))
 
     def extract_train_num(self):
         return self.train_name[0:4]
@@ -144,17 +113,6 @@ class UpdateData:
         else:
             self.running_status = "No"
 
-    def find_station_match_curr_data(self,station):
-        pattern = re.compile(station.replace("Jn","Junction"), re.IGNORECASE)
-        matches = [option for option in self.station_info["station"] if pattern.search(option)]
-        if len(matches)==0:
-            pattern = re.compile(station.split(" ")[0], re.IGNORECASE)
-            matches = [option for option in self.station_info["station"] if pattern.search(option)]
-        if len(matches)==1:
-            return self.station_info[self.station_info["station"]==matches[0]]
-        else:
-            pass
-
     def train_running_zone_flags(self):
         self.South_Eastern_Railway = 0
         self.Eastern_Railway = 0
@@ -199,51 +157,3 @@ class UpdateData:
             except:
                 pass
 
-class RailData:
-    def __init__(self,train_num):
-        self.train_num = train_num
-        self.get_data_obj = GetData(train_num=self.train_num)
-
-    def ReFormatData(self,dict):
-        get_data_obj = self.get_data_obj
-        # Data = UpdateData(resp_dict = get_data_obj.get_reponse())
-        Data = UpdateData(resp_dict = dict)
-        Data.abs_update_time()
-        Data.train_visit_status()
-        Data.train_visit_datetime()
-        Data.train_running_status()
-        Data.train_running_zone_flags()
-        return {"train_name":Data.train_name, 
-                "message":Data.message, 
-                "updated_time":Data.updated_time, 
-                "running_status":Data.running_status,
-                "South_Eastern_Railway_flag":Data.South_Eastern_Railway,
-                "Eastern_Railway_flag":Data.Eastern_Railway,
-                "North_Frontier_Railway_flag":Data.North_Frontier_Railway,
-                "Northern_Railway_flag":Data.Northern_Railway,
-                "North_Western_Railway_flag":Data.North_Western_Railway,
-                "Southern_Railway_flag":Data.Southern_Railway,
-                "Central_Railway_flag":Data.Central_Railway,
-                "North_Central_Railway_flag":Data.North_Central_Railway,
-                "Western_Railway_flag":Data.Western_Railway,
-                "South_Central_Railway_flag":Data.South_Central_Railway,
-                "North_Eastern_Railway_flag":Data.North_Eastern_Railway,
-                "South_East_Central_Railway_flag":Data.South_East_Central_Railway,
-                "South_Western_Railway_flag":Data.South_Western_Railway,
-                "West_Central_Railway_flag":Data.West_Central_Railway,
-                "East_Coast_Railway_flag":Data.East_Coast_Railway,
-                "Konkan_Railway_flag":Data.Konkan_Railway,
-                "East_Central_Railway_flag":Data.East_Central_Railway,
-                "data": Data.data}
-
-class GetTrainList:
-    def __init__(self,Train_List_csv):
-        self.Train_List_csv = Train_List_csv
-
-    def get_train_list(self):
-        train_list = pd.read_csv(self.Train_List_csv)["Train_num"]
-        # print(train_list["Train_num"])
-        dotenv.load_dotenv()
-        string = os.getenv("mongodb_string")
-        self.train_list = train_list
-        self.mongo_string = string

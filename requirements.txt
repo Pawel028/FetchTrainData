@@ -10,3 +10,4 @@ joblib
 types-PyYAML
 pyYAML
 aiohttp
+aioboto3

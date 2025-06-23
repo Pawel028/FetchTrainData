@@ -1,0 +1,11 @@
+start python get_data_1.py
+start python get_data_2.py
+start python get_data_3.py
+start python get_data_4.py
+start python get_data_5.py
+start python get_data_6.py
+start python get_data_7.py
+start python get_data_8.py
+start python insert_kafka2MongoDB.py
+start python archive_train_status.py
+start python get_unknown_stations_info.py
